@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">activity_first</string>
+    <string name="my_App">My Application</string>
+    <string name="tvno1">Number 1</string>
+    <string name="tvno2">Number 2</string>
+    <string name="btnOk">OK</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="multi">*</string>
+    <string name="divide">/</string>
+    <string name="cal">Calculator</string>
+    <string name="hello">Hello World</string>
+    <string name="java">JavaTpoint custom Toast</string>
+    <string name="text">TextView</string>
+</resources>
